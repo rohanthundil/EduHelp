@@ -1,0 +1,6 @@
+3. If clicking "Submit" does not trigger any response:
+
+● Check your internet connection.
+● Ensure all required fields are filled.
+● Try refreshing the page or clearing cache.
+If the issue persists, contact support.

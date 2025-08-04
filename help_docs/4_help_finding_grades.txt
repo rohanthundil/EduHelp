@@ -1,0 +1,5 @@
+4. You can view your grades by:
+
+Clicking on the "Grades" tab in the top navigation.
+Select the course you're interested in.
+All assignments and test grades will be listed with comments.

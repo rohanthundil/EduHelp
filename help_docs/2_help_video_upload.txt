@@ -1,0 +1,6 @@
+2. You can upload videos by:
+
+Going to the "Projects" tab.
+Selecting "Multimedia Upload".
+Drag and drop your video file or use the "Browse" button.
+Wait for the processing bar to finish before clicking "Save".

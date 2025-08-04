@@ -1,0 +1,5 @@
+5. All deadlines are located in the "Calendar" section:
+
+Access the calendar from your dashboard.
+Filter by course or assignment type.
+Deadlines are displayed in red for overdue items.

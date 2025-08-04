@@ -1,0 +1,7 @@
+1. To upload your assignment:
+
+Navigate to the "Assignments" section.
+Click on the relevant assignment.
+Use the "Upload File" button to choose your document.
+Click "Submit" to complete the process.
+Make sure your file format is accepted (.pdf, .docx).
