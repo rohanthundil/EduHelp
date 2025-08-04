@@ -16,7 +16,8 @@ A prompt is constructed and passed to the LLM.
 The application maintains a short-term memory of the last 3 exchanges in a session using LangGraph’s MemorySaver.  
 ### Retrieval of Relevant Documents
 The top most relevant documents are retrieved from the vector database based on the similarity of their embeddings to the query.  
-These documents are used as context for the language model to generate an accurate and helpful response.  
+These documents are used as context for the language model to generate an accurate and helpful response. 
+The documents retrieved are shown in the backend
 ### User Interface
 The frontend is built using Streamlit, offering a clean and interactive chat UI.  
 Users can type their questions in a chat-style input box.  
