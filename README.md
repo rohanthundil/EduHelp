@@ -36,4 +36,7 @@ Embeddings - Sentence-Transformers (all-MiniLM-L6-v2)
 Vector DB - ChromaDB  
 Python 3.13  
 
+Artificial Intelligence is transforming how students interact with learning platforms. AI-powered assistants can guide students through platforms, answer questions and provide 24/7 support. It can analyze student's progress and suggest personalized content. Furthermore, it can evaluate essays and assignments to give instant feedback. 
+EduHelp demonstrates a foundational AI use case in EdTech, acting as a smart help assistant trained on platform documentation. It helps students navigate the system confidently, especially when human support is unavailable.
+
 
