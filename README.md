@@ -7,7 +7,7 @@ EduHelp is a simple AI assistant built using LangGraph, LangChain, and Streamlit
 ![alt text](images/Architecture_Diagram.png)
 ### Help Document Ingestion and Embedding
 The system begins by reading a set of pre-defined help documents (.txt files) stored locally in a help_docs folder.  
-Each document is processed using the SentenceTransformer model (all-MiniLM-L6-v2) to convert its text into a high-dimensional vector embedding. This embedding represents the semantic meaning of the document.  
+Each document is processed using the Sentence Transformer model to convert its text into a high-dimensional vector embedding. This embedding represents the semantic meaning of the document.  
 These vector embeddings are stored in a vector database using ChromaDB, enabling fast and accurate similarity-based retrieval.  
 ### User Query Handling
 When the user submits a question (e.g., “I’m lost trying to submit my assignment”), the query is also converted into an embedding using the same SentenceTransformer.  
@@ -32,7 +32,7 @@ Responses from the assistant are displayed in real-time.
 Frontend - Streamlit  
 Backend - Langchain, Langgraph  
 LLM - Gemma-2-9b-it (Groq)  
-Embeddings - Sentence-Transformers (all-MiniLM-L6-v2)  
+Embeddings - Sentence-Transformer (all-mpnet-base-v2)  
 Vector DB - ChromaDB  
 Python 3.13  
 
